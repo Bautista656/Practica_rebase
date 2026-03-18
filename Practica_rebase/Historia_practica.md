@@ -6,3 +6,6 @@ El cubano conocio a una muchacha de otro salon y se enamoro de ella, pero la muc
 
 
 Este cambio fue realizado por la persona 1 y reescribirá la historia.
+
+
+Este cambio pertenece a mi rama solitaria.
